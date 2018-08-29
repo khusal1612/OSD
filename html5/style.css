@@ -1,0 +1,61 @@
+a:hover{
+	color: red;
+}
+a:active{
+	color: blue;
+}
+.inside{
+	background-color: black;
+}
+.aside{
+	color: black;
+	padding: 0px 25px 25px 25px;
+	float: right;
+	line-height: 15px;
+	width: 180px;
+	background-color: grey;
+
+}
+.link{
+	color:yellow;
+	text-decoration-line: none;
+}
+.main_link{
+color: black;
+text-decoration-line: none;
+}
+
+.red_links{
+	color: red;
+	text-decoration-line: none;
+}
+
+.submit{
+	background-color: black;
+	color: blue;
+}
+.gender{
+	color: green;
+}
+
+.templates{
+	border-style: solid;
+	width: 200px;
+	height: 220px;
+	border-color: red;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
