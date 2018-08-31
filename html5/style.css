@@ -1,3 +1,4 @@
+
 a:hover{
 	color: red;
 }
@@ -45,7 +46,17 @@ text-decoration-line: none;
 	border-color: red;
 	text-align: center;
 }
-
+.template{
+	border: 1px solid;
+	border-color: red;
+	width: 193px;
+	height: 237px;
+	margin-left: 20px;
+}
+.img{
+	padding-left: 20px;
+	padding-top: 5px;
+}
 
 
 
